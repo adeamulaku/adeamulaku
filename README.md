@@ -10,7 +10,7 @@
 - 🌟 Passionate about **cybersecurity**, **software engineering**, and building tools that make technology safer and smarter.  
 - 📚 Skilled in **Java, C++, Python, MongoDB, and React**.  
 - 🛡️ Attended & volunteered at **BSides SF, Day of Shecurity, BSides Prishtina, RSA Conference SF**.  
-- 🌲 Outside of tech, I love **hiking, exploring, and being outdoors**.  
+- 🌲 Outside of tech, I love **hiking, and exploring coffe shops**.  
 
 ---
 
@@ -18,8 +18,7 @@
 
 **Languages & Tools:**  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
@@ -42,7 +41,6 @@
 
 ![Adea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeamulaku&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeamulaku&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=adeamulaku&theme=tokyonight)  
 
 ---
 
@@ -56,7 +54,7 @@
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeamulaku)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeamulaku@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeamulaku02@gmail.com)  
 
 ---
 
